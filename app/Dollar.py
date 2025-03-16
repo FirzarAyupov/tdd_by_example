@@ -6,3 +6,4 @@ class Dollar:
 
     def times(self, multiplier: int):
         self.amount *= multiplier
+        return None
